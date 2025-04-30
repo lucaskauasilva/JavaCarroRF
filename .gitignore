@@ -2,3 +2,5 @@
 /bin
 .classpath
 .project
+doc/*
+!doc/index.html

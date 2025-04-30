@@ -12,7 +12,7 @@ public class CarroRF implements Runnable{
 	
 	
 	/**
-	 * Agenda os movimentos do CarroRF através das direções passadas como argumento do Tipo Direcao)
+	 * Agenda os movimentos do CarroRF através das direções passadas como argumento do Tipo Direcao
 	 * 
 	 * @param direcoesMovimento Representa os movimentos agendados através das direções (exemplo: DIREITA).
 	 * @see Direcao

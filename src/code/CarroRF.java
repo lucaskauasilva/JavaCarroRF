@@ -11,8 +11,14 @@ public class CarroRF implements Runnable{
 	}
 	
 	
-	/*
+	/**
+	 * Agenda os movimentos do CarroRF através das direções passadas como argumento do Tipo Direcao)
 	 * 
+	 * @param direcoesMovimento Representa os movimentos agendados através das direções (exemplo: DIREITA).
+	 * @see Direcao
+	 * @since 1.0
+	 * @version 1.0
+	 * @author Lucas Kauã Silva
 	 */
 	public void agendarMovimentos(Direcao... direcoesMovimentos) {
 		System.out.println("=============================>");
